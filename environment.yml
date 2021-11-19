@@ -6,9 +6,9 @@ dependencies:
   - numpy=1.21
   - scipy=1.7.0
   - pip
+  - ffmpeg
   - pip:
     - matplotlib==3.5.0
-    - jupyter
     - ipython
     - ipywidgets
     - ipympl
