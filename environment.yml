@@ -1,0 +1,11 @@
+name: kt1400-practicum4
+channels:
+  - conda-forge
+dependencies:
+  - python=3.9.4
+  - numpy=1.21
+  - scipy=1.7.0
+  - pip
+  - pip:
+    - matplotlib==3.5.0
+    - jupyter
